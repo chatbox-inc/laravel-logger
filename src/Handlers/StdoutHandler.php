@@ -6,7 +6,7 @@
  * Time: 1:38
  */
 
-namespace Chatbox\Lumen\Logger\Handlers;
+namespace Chatbox\Logger\Handlers;
 
 
 use Monolog\Handler\StreamHandler;

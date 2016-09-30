@@ -6,7 +6,7 @@
  * Time: 7:06
  */
 
-namespace Chatbox\Lumen\Providers;
+namespace Chatbox\Logger\Providers;
 
 use Chatbox\Lumen\Logger\Handlers\StdoutHandler;
 use Illuminate\Support\ServiceProvider;

@@ -1,5 +1,5 @@
 <?php
-namespace Chatbox\LaravelLogger\Logger\Handlers;
+namespace Chatbox\Logger\Logger\Handlers;
 use Illuminate\Database\Eloquent\Model;
 use Monolog\Handler\AbstractProcessingHandler;
 /**
