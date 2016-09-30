@@ -1,0 +1,14 @@
+{
+    "name": "chatbox-inc/laravel-logger",
+    "authors": [
+        {
+            "name": "mikakane",
+            "email": "mikakane2@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "peridot-php/peridot": "^1.18",
+        "monolog/monolog": "^1.21"
+    }
+}
