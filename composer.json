@@ -10,7 +10,7 @@
         "psr-4": {
             "Chatbox\\Logger\\":"./src/"
         }
-    }
+    },
     "require": {},
     "require-dev": {
         "peridot-php/peridot": "^1.18",
